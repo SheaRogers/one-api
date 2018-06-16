@@ -1,11 +1,10 @@
 FORMAT: 1A
-HOST: http://kbucket-api.herokuapp.com
+HOST: http://one-api.herokuapp.com
 
 
-# BucketList
+# ONE API
 
-Bucketlist is an API allowing a user to register, login to create a bucket and
-bucket items.
+ONE-API is the API for ONE by ThinkForge.
 
 ## User Registration [/auth/register]
 

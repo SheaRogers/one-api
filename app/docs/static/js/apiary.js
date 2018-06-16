@@ -1,5 +1,5 @@
 var embed = new Apiary.Embed({
-    "subdomain": "kbucket",
+    "subdomain": "onewebapi",
     "preferences": {
         "element": "#documentation",
         "displayHttpMethods": true
